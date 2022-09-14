@@ -5,8 +5,12 @@ Or is it? :-)
 
 ## Installation
 
+1. Create account 
 1. Access data from Sentinel
-1. 
+1. Install Python packages
+  * Sentinel
+  * raster
+  * scikit
 
 ## Cloning repository
 
